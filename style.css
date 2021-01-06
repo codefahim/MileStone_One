@@ -1,0 +1,101 @@
+@font-face {
+    font-family: main;
+    src: url(fonts/BebasNeue.woff);
+}
+
+@font-face {
+    font-family: sub;
+    src: url(fonts/Roboto.woff);
+}
+
+body {
+    margin: 0;
+}
+
+.welcome-section,
+.about-section {
+    height: 500px;
+    padding-bottom: 40px;
+}
+
+.half-width {
+    width: 40%;
+    margin-left: 5%;
+    padding-left: 2%;
+    float: left;
+    padding-top: 40px;
+}
+
+h1 {
+    font-family: main;
+    font-size: 60px;
+    margin: 0;
+}
+
+H2 {
+    font-family: main;
+    font-size: 40px;
+    color: #363958;
+}
+
+span {
+    color: #FF8367;
+}
+
+.welcome-doc {
+    width: 52%;
+    color: #3E3E3E;
+    font-family: sub;
+    font-size: 14px;
+    padding-bottom: 20px;
+}
+
+.link {
+    color: white;
+    text-decoration: none;
+    padding: 10px 22px;
+    background-image: linear-gradient(to bottom, #FF8063, #F46060);
+    font-family: sub;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.first-div {
+    margin-top: 40px;
+}
+
+.ab-doc {
+    width: 80%;
+    color: #3E3E3E;
+    font-family: sub;
+    font-size: 15px;
+    padding-bottom: 20px;
+}
+
+.project {
+    height: 500px;
+    background-color: #E5E5E5;
+    padding-bottom: 60px;
+}
+
+.project h2 {
+    text-align: center;
+    padding-top: 40px;
+}
+
+.smallPart {
+    float: left;
+    height: 300px;
+}
+
+h3 {
+    font-family: sub;
+    color: #363958;
+    margin: 0;
+}
+
+p {
+    color: #6C6C6C;
+    font-family: sub;
+    font-size: 14px;
+}
