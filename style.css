@@ -13,7 +13,8 @@ body {
 }
 
 .welcome-section,
-.about-section {
+.about-section,
+.query {
     height: 500px;
     padding-bottom: 40px;
 }
