@@ -100,3 +100,24 @@ p {
     font-family: sub;
     font-size: 14px;
 }
+
+.stay {
+    font-family: main;
+    font-size: 22px;
+    color: #696871;
+    margin-bottom: 0;
+    padding-top: 50px;
+}
+
+.hello {
+    font-family: sub;
+    font-size: 22px;
+    color: #363958;
+    padding-bottom: 30px;
+}
+
+.logo {
+    width: 50%;
+    height: 100px;
+    padding-bottom: 100px;
+}
